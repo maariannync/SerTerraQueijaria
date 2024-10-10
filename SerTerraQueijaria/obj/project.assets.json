@@ -8480,23 +8480,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SENAI3EM\\.nuget\\packages\\": {},
+    "C:\\Users\\Aluno\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SENAI3EM\\Desktop\\ProjetoFinal\\SerTerraQueijaria\\SerTerraQueijaria\\SerTerraQueijaria.csproj",
+      "projectUniqueName": "C:\\SerTerraQueijaria\\SerTerraQueijaria\\SerTerraQueijaria\\SerTerraQueijaria.csproj",
       "projectName": "SerTerraQueijaria",
-      "projectPath": "C:\\Users\\SENAI3EM\\Desktop\\ProjetoFinal\\SerTerraQueijaria\\SerTerraQueijaria\\SerTerraQueijaria.csproj",
-      "packagesPath": "C:\\Users\\SENAI3EM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SENAI3EM\\Desktop\\ProjetoFinal\\SerTerraQueijaria\\SerTerraQueijaria\\obj\\",
+      "projectPath": "C:\\SerTerraQueijaria\\SerTerraQueijaria\\SerTerraQueijaria\\SerTerraQueijaria.csproj",
+      "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
+      "outputPath": "C:\\SerTerraQueijaria\\SerTerraQueijaria\\SerTerraQueijaria\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\SENAI3EM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

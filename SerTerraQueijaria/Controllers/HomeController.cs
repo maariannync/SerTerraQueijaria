@@ -18,7 +18,17 @@ namespace SerTerraQueijaria.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Produtos()
+        {
+            return View();
+        }
+
+        public IActionResult Sobre()
+        {
+            return View();
+        }
+
+        public IActionResult Contato()
         {
             return View();
         }

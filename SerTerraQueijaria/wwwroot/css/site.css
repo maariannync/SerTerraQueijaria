@@ -20,3 +20,67 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+/* Layout.cshtml */
+
+.container {
+ display: flex;
+ flex-direction: column;
+ align-items: center;       
+ }
+
+.d-flex {
+    margin: 4px;
+    align-content: flex-start ;
+    width: 300px;
+}
+
+.navegacao {
+    font-family: 'Playfair Display SC';
+    color: #507A8A;
+    font-size: 19px;
+}
+
+.carousel-item img {
+    max-height: 560px;
+    object-fit: cover;
+}
+
+.carousel {
+    max-width: 100%;
+    height: auto;
+}
+
+.icon-text {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+}
+
+    .icon-text i {
+        margin-right: 8px;
+    }
+
+.row.text-center {
+    display: flex; /* Garante que os itens fiquem na mesma linha */
+    justify-content: center; /* Centraliza os itens horizontalmente */
+}
+
+.vertical-bar {
+    border-left: 1px solid #000; /* Barra preta */
+    height: 30px;
+    margin: 0 20px; /* Espaçamento entre os itens */
+}
+
+/* PÁGINA INICIAL */
+
+
+
+
+
+
+
+
+
